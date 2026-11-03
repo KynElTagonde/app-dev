@@ -2,7 +2,7 @@
 My first repository
 # Spider-Man: Brand New Day (2026)
 
-![Spider-Man: Brand New Day Poster](spider-man-brand-new-day-ceede062cd58e2c05683cb6507426197_poster.jpg)
+![Spider-Man: Brand New Day Poster](https://www.cinestar.de/media/cache/poster/media/filmbilder/s/spider-man-brand-new-day/spider-man-brand-new-day-ceede062cd58e2c05683cb6507426197_poster.jpg)
 
 **Spider-Man: Brand New Day** is my favorite movie. It follows *Peter Parker*, who lives alone after everyone forgets him and continues protecting New York City as Spider-Man.
 
